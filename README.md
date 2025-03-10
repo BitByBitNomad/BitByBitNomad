@@ -53,14 +53,7 @@
 
 ---
 
-## ⚡ **🚀 My Developer Philosophy**  
-🎵 **Master the Basics: A strong foundation in data structures, algorithms, and system design makes it easier to learn any new technology.**  
-🔗 **Keep It Simple: Write clean and maintainable code.**  
-🐍 **Python was named after Monty Python, not the snake**  
-
----
-
-##🎙️ **Favorite Tech Resources**
+## 🎙️ **Favorite Tech Resources**  
 📺 **YouTube Channels:**
 🔥 **Harkirat Singh – Deep dives into system design & backend development.**
 ☕ **Chai aur Code – Simplified explanations of complex tech concepts.**
@@ -70,6 +63,12 @@
 📰 **News & Blogs:**
 📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**
 📖 **Medium – In-depth tech blogs, case studies, and tutorials.**
+
+---
+## ⚡ **🚀 My Developer Philosophy**  
+🎵 **Master the Basics: A strong foundation in data structures, algorithms, and system design makes it easier to learn any new technology.**  
+🔗 **Keep It Simple: Write clean and maintainable code.**  
+🐍 **Python was named after Monty Python, not the snake**  
 
 ---
 
