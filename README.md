@@ -60,7 +60,6 @@
 
 ---
 
----
 ##🎙️ **Favorite Tech Resources**
 📺 **YouTube Channels:**
 🔥 **Harkirat Singh – Deep dives into system design & backend development.**
@@ -71,5 +70,7 @@
 📰 **News & Blogs:**
 📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**
 📖 **Medium – In-depth tech blogs, case studies, and tutorials.**
+
 ---
+
 💻 **Code. Learn. Build. Repeat.** 🚀  
