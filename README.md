@@ -1,4 +1,4 @@
-# 🚀 Namaskar, I'm Akash Yerunkar (aka BitByBitNomad) 👋"
+# 🚀 Namaskar, I'm Akash Yerunkar (aka BitByBitNomad) 👋
 
 ### **Full Stack Developer | Tech Enthusiast | IoT Explorer**  
 
@@ -61,7 +61,7 @@
 ---
 
 ---
-##🎙️ Favorite Tech Resources##
+##🎙️ Favorite Tech Resources 
 📺 **YouTube Channels:**
 🔥 **Harkirat Singh – Deep dives into system design & backend development.**
 ☕ **Chai aur Code – Simplified explanations of complex tech concepts.**
