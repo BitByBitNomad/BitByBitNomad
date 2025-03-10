@@ -61,7 +61,7 @@
 ---
 
 ---
-##🎙️ Favorite Tech Resources 
+##🎙️ **Favorite Tech Resources**
 📺 **YouTube Channels:**
 🔥 **Harkirat Singh – Deep dives into system design & backend development.**
 ☕ **Chai aur Code – Simplified explanations of complex tech concepts.**
