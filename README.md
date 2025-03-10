@@ -54,11 +54,11 @@
 ---
 
 ## 🎙️ **Favorite Tech Resources**  
-📺 **YouTube Channels:** 
-🔥 **Harkirat Singh – Deep dives into system design & backend development.** 
-☕ **Chai aur Code – Simplified explanations of complex tech concepts.** 
-💡 **Code with Harry – Beginner-friendly tutorials on web & backend development.** 
-🚀 **Piyush Garg – DSA, competitive programming & full-stack insights.** 
+📺 **YouTube Channels:**  
+🔥 **Harkirat Singh – Deep dives into system design & backend development.**   
+☕ **Chai aur Code – Simplified explanations of complex tech concepts.**  
+💡 **Code with Harry – Beginner-friendly tutorials on web & backend development.**  
+🚀 **Piyush Garg – DSA, competitive programming & full-stack insights.**  
 
 📰 **News & Blogs:**
 📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**
