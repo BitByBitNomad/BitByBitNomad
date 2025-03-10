@@ -66,8 +66,8 @@
 
 ---
 ## 🚀 **My Developer Philosophy**  
-- 🎵 **Master the Basics: A strong foundation in data structures, algorithms, and system design makes it easier to learn any new technology.**   
-- 🔗 **Keep It Simple: Write clean and maintainable code.**  
+🎵 **Master the Basics: A strong foundation in data structures, algorithms, and system design makes it easier to learn any new technology.**   
+🔗 **Keep It Simple: Write clean and maintainable code.**  
 
 ---
 
