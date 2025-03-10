@@ -60,9 +60,9 @@
 💡 **Code with Harry – Beginner-friendly tutorials on web & backend development.**  
 🚀 **Piyush Garg – DSA, competitive programming & full-stack insights.**  
 
-📰 **News & Blogs:**
-📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**
-📖 **Medium – In-depth tech blogs, case studies, and tutorials.**
+📰 **News & Blogs:**  
+📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**  
+📖 **Medium – In-depth tech blogs, case studies, and tutorials.**  
 
 ---
 ## ⚡ **🚀 My Developer Philosophy**  
