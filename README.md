@@ -49,7 +49,7 @@
 ## 📫 **Connect with Me**  
 📩 Email: **bitbybitnomad@gmail.com**  
 💼 LinkedIn: **https://www.linkedin.com/in/akash-yerunkar03**  
-🌐 Website: **Coming Soon...**  
+🌐 Website: **https://bitbybitnomad.netlify.app/**  
 
 ---
 
