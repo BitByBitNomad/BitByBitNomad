@@ -31,11 +31,16 @@ Building high-throughput backend services, multi-tenant enterprise platforms, an
 
 ---
 
-### 🚀 Pinned Projects & Case Studies
+### 🏗️ Key Engineering Highlights & Case Studies
 
-- **[Fit Engine](https://github.com/your-username/fit-engine):** Real-time concurrent production analytics ingestion engine built with Go and PostgreSQL.
-- **[ScreenIQ](https://github.com/your-username/screeniq):** Cross-platform EdTech application with transactional Stripe subscription billing and automated background report workers.
-- **[Logica](https://github.com/your-username/logica):** National-level competitive quiz backend designed with transactional locks in PostgreSQL to eliminate race conditions under peak traffic.
+* **Multi-Tenant Manufacturing ERP Engine** *(Node.js, TypeScript, PostgreSQL, AWS)*
+  * Built dynamic payroll & compensation calculation algorithms (250–450ms batch execution) and integrated OAuth2 ADP sync engines with token TTL caching.
+* **Fit Engine – Real-Time Production Analytics** *(Go, React, PostgreSQL)*
+  * Concurrent metrics ingestion prototype leveraging Go channels and Goroutines to process shift-level operational bottlenecks.
+* **ScreenIQ – EdTech & Subscription Platform** *(React Native, Node.js, MongoDB, Stripe)*
+  * Cross-platform mobile ecosystem featuring transactional Stripe subscription billing, idempotent webhook handlers, and automated S3 reporting pipelines.
+* **Logica – High-Concurrency Scoring Engine** *(Node.js, PostgreSQL, React)*
+  * Designed relational schemas with transaction locks and strict concurrency constraints to prevent race conditions during national-level quiz submission spikes.
 
 ---
 
