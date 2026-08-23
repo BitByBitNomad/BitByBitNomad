@@ -1,77 +1,46 @@
-# 🚀 Namaskar, I'm Akash Yerunkar (aka BitByBitNomad) 👋
+# Akash Yerunkar
 
-### **Full Stack Developer | Tech Enthusiast | IoT Explorer**  
+### Full-Stack & Backend Systems Engineer
+Building high-throughput backend services, multi-tenant enterprise platforms, and scalable distributed architectures with **Node.js, TypeScript, Go, PostgreSQL, Redis, and AWS**.
 
-💡 Passionate about building **scalable, high-performance applications** and exploring cutting-edge tech.  
-📌 Currently diving deep into **Redis, Kafka, and GoLang** to make backends even **more robust & efficient**.  
-🛠️ Love working on **React.js, Next.js, React Native, Node.js, MongoDB, SQL**, and occasionally tinkering with **IoT, Arduino, Python, and Networking**.  
-🤝 Open to **collaborating** on **web projects, native apps, and backend development**.  
-
----
-
-## 🔧 **Tech Stack & Skills**  
-
-### **💻 Frontend Development**  
-- ⚡ **React.js | Next.js | React Native**  
-- 🎨 **HTML | CSS | TailwindCSS | Material UI | shadcn/ui**  
-
-### **🛠 Backend Development**  
-- 🚀 **Node.js | Express.js | GoLang**  
-- 🔥 **REST APIs | GraphQL | WebSockets**  
-
-### **📡 Database & Messaging**  
-- 🛢 **MongoDB | SQL (PostgreSQL, MySQL) | Firebase**  
-- ⚡ **Redis (Caching) | Kafka (Event Streaming)**  
-
-### **☁️ DevOps & Cloud**  
-- 🌍 **Docker | Kubernetes | AWS | DigitalOcean**  
-- 🔄 **CI/CD | GitHub Actions | Nginx | Apache**  
-
-### **🤖 IoT & Hardware**  
-- 🔌 **Arduino | Raspberry Pi | ESP8266/ESP32**  
-- 📡 **Networking | Embedded Systems | Microcontrollers**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yerunkar03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://bitbybitnomad.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akashnyerunkar580@gmail.com)
 
 ---
 
-## 🌱 **Currently Learning**  
-- **GoLang** for high-performance backend services.  
-- **Redis & Kafka** for real-time messaging & caching.  
-- Exploring **new scalable architectures** for microservices.  
+### ⚡ Architectural Focus & Production Highlights
+
+- **Multi-Tenant Systems & RBAC:** Engineered enterprise manufacturing ERP engines featuring strict tenant data isolation, granular RBAC, and immutable audit trails across multi-plant deployments.
+- **High-Throughput APIs & Async Pipelines:** Architected external sync engines slashing p95 latency by 98% via OAuth2 token caching, decoupled BullMQ/Redis priority queues, and event streams.
+- **Database & Query Performance:** Deep profiling with PostgreSQL query execution plans (`EXPLAIN ANALYZE`), composite indexing strategies, and connection pooling under high concurrent shift spikes.
+- **Concurrent Ingestion Services:** Exploring high-performance systems engineering and concurrency pipelines in Go (Goroutines/Channels) and event-driven architectures (Kafka).
 
 ---
 
-## 🎯 **Let's Build Something Awesome!**  
-🚀 Open to **collaborations** on **web apps, backend systems, and mobile projects**.  
-💡 Always looking to learn & explore new technologies.  
+### 🛠️ Technical Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, Go (Golang), Python, SQL |
+| **Backend & Architecture** | Node.js, Express.js, RESTful APIs, Microservices, Event-Driven Architecture, Multi-Tenant Architecture, RBAC |
+| **Databases & Caching** | PostgreSQL, Redis, BullMQ, Kafka, MongoDB, MySQL |
+| **Frontend & Mobile** | React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, shadcn/ui |
+| **Cloud & DevOps** | AWS (EC2, S3, CloudFront, Lambda), Docker, GitHub Actions, CI/CD, Linux |
+| **Integrations & Protocols** | OAuth2.0, Stripe Billing, WebSockets, Postman |
 
 ---
 
-## 📫 **Connect with Me**  
-📩 Email: **bitbybitnomad@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/akash-yerunkar03**  
-🌐 Website: **https://bitbybitnomad.netlify.app/**  
+### 🚀 Pinned Projects & Case Studies
+
+- **[Fit Engine](https://github.com/your-username/fit-engine):** Real-time concurrent production analytics ingestion engine built with Go and PostgreSQL.
+- **[ScreenIQ](https://github.com/your-username/screeniq):** Cross-platform EdTech application with transactional Stripe subscription billing and automated background report workers.
+- **[Logica](https://github.com/your-username/logica):** National-level competitive quiz backend designed with transactional locks in PostgreSQL to eliminate race conditions under peak traffic.
 
 ---
 
-## 🎙️ **Favorite Tech Resources**  
-📺 **YouTube Channels:**  
-- 🔥 **Harkirat Singh – Deep dives into system design & backend development.**   
-- ☕ **Chai aur Code – Simplified explanations of complex tech concepts.**  
-- 💡 **Code with Harry – Beginner-friendly tutorials on web & backend development.**  
-- 🚀 **Piyush Garg – DSA, competitive programming & full-stack insights.**  
+### 📬 Connect with Me
 
-📰 **News & Blogs:**  
-- 📝 **Dev.to – Community-driven articles on web, backend, and dev culture.**  
-- 📖 **Medium – In-depth tech blogs, case studies, and tutorials.**  
-
----
-## 🚀 **My Developer Philosophy**  
-* **Just Start Building: 🚀 Don't think too much—just get your hands on the keyboard and start working on a project, big or small!**
-* **Master the Basics: A strong foundation in data structures, algorithms, and system design makes it easier to learn any new technology.**   
-* **Keep It Simple: Write clean and maintainable code.**
-* **Learn & Evolve: Technology changes fast, but once you understand the fundamentals, picking up new tools is easy**
-
-
----
-
-💻 **Code. Learn. Build. Repeat.** 🚀  
+- **Email:** akashnyerunkar580@gmail.com
+- **LinkedIn:** [linkedin.com/in/akash-yerunkar03](https://www.linkedin.com/in/akash-yerunkar03)
+- **Portfolio:** [bitbybitnomad.netlify.app](https://bitbybitnomad.netlify.app/)
