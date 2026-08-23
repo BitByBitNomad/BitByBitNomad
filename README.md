@@ -4,7 +4,7 @@
 Building high-throughput backend services, multi-tenant enterprise platforms, and scalable distributed architectures with **Node.js, TypeScript, Go, PostgreSQL, Redis, and AWS**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yerunkar03)
-[https://bitbybitnomad.space/](https://bitbybitnomad.space/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://bitbybitnomad.space/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akashnyerunkar580@gmail.com)
 
 ---
