@@ -46,6 +46,6 @@ Building high-throughput backend services, multi-tenant enterprise platforms, an
 
 ### 📬 Connect with Me
 
-- **Email:** akashnyerunkar580@gmail.com
+- **Email:** akashnyerunkar580@gmail.com | bitbybitnomad@gmail.com
 - **LinkedIn:** [linkedin.com/in/akash-yerunkar03](https://www.linkedin.com/in/akash-yerunkar03)
 - **Portfolio:** [bitbybitnomad.space](https://bitbybitnomad.space/)
