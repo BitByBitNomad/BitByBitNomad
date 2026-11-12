@@ -1,51 +1,95 @@
 # Akash Yerunkar
 
-### Full-Stack & Backend Systems Engineer
-Building high-throughput backend services, multi-tenant enterprise platforms, and scalable distributed architectures with **Node.js, TypeScript, Go, PostgreSQL, Redis, and AWS**.
+### Full-Stack & Backend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yerunkar03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://bitbybitnomad.space/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akashnyerunkar580@gmail.com)
+Building production web applications, backend services, and multi-tenant enterprise platforms using **Node.js, TypeScript, React, PostgreSQL, Redis, and AWS**.
 
----
-
-### ⚡ Architectural Focus & Production Highlights
-
-- **Multi-Tenant Systems & RBAC:** Engineered enterprise manufacturing ERP engines featuring strict tenant data isolation, granular RBAC, and immutable audit trails across multi-plant deployments.
-- **High-Throughput APIs & Async Pipelines:** Architected external sync engines slashing p95 latency by 98% via OAuth2 token caching, decoupled BullMQ/Redis priority queues, and event streams.
-- **Database & Query Performance:** Deep profiling with PostgreSQL query execution plans (`EXPLAIN ANALYZE`), composite indexing strategies, and connection pooling under high concurrent shift spikes.
-- **Concurrent Ingestion Services:** Exploring high-performance systems engineering and concurrency pipelines in Go (Goroutines/Channels) and event-driven architectures (Kafka).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yerunkar03) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://bitbybitnomad.space/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akashnyerunkar580@gmail.com)
 
 ---
 
-### 🛠️ Technical Stack
+## ⚡ Engineering Focus
+
+- **Backend Development:** Building REST APIs and backend services with Node.js, TypeScript, and Express.js.
+- **Multi-Tenant Systems:** Developing enterprise applications with tenant isolation, RBAC, and audit logging.
+- **Database & Performance:** Working with PostgreSQL, MongoDB, MySQL, and Redis for data-intensive applications, caching, and API performance optimization.
+- **Async Processing:** Implementing background jobs, retry workflows, and asynchronous processing using BullMQ and Redis.
+- **Full-Stack Development:** Building end-to-end features across React, Node.js, PostgreSQL, and supporting services.
+- **Mobile Development:** Building and shipping React Native / Expo applications to Google Play and Apple App Store.
+
+---
+
+## 🛠️ Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Go (Golang), Python, SQL |
-| **Backend & Architecture** | Node.js, Express.js, RESTful APIs, Microservices, Event-Driven Architecture, Multi-Tenant Architecture, RBAC |
-| **Databases & Caching** | PostgreSQL, Redis, BullMQ, Kafka, MongoDB, MySQL |
-| **Frontend & Mobile** | React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS, shadcn/ui |
-| **Cloud & DevOps** | AWS (EC2, S3, CloudFront, Lambda), Docker, GitHub Actions, CI/CD, Linux |
-| **Integrations & Protocols** | OAuth2.0, Stripe Billing, WebSockets, Postman |
+| **Languages** | JavaScript (ES6+), TypeScript, SQL |
+| **Backend** | Node.js, Express.js, REST APIs, Authentication, RBAC, Multi-Tenant Architecture, Async Processing |
+| **Frontend** | React.js, Next.js, Redux Toolkit, React Hooks, Tailwind CSS |
+| **Mobile** | React Native, Expo |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase Firestore |
+| **Caching & Jobs** | Redis, BullMQ |
+| **Cloud & DevOps** | AWS (S3, CloudFront, IAM), Docker, GitHub Actions, CI/CD, Linux |
+| **Integrations** | OAuth 2.0, Stripe, Firebase Authentication, Third-Party APIs |
+| **Tools** | Git, GitHub, Postman |
 
 ---
 
-### 🏗️ Key Engineering Highlights & Case Studies
+## 🏗️ Selected Projects
 
-* **Multi-Tenant Manufacturing ERP Engine** *(Node.js, TypeScript, PostgreSQL, AWS)*
-  * Built dynamic payroll & compensation calculation algorithms (250–450ms batch execution) and integrated OAuth2 ADP sync engines with token TTL caching.
-* **Fit Engine – Real-Time Production Analytics** *(Go, React, PostgreSQL)*
-  * Concurrent metrics ingestion prototype leveraging Go channels and Goroutines to process shift-level operational bottlenecks.
-* **ScreenIQ – EdTech & Subscription Platform** *(React Native, Node.js, MongoDB, Stripe)*
-  * Cross-platform mobile ecosystem featuring transactional Stripe subscription billing, idempotent webhook handlers, and automated S3 reporting pipelines.
-* **Logica – High-Concurrency Scoring Engine** *(Node.js, PostgreSQL, React)*
-  * Designed relational schemas with transaction locks and strict concurrency constraints to prevent race conditions during national-level quiz submission spikes.
+### ScreenIQ — EdTech & Subscription Platform
+
+**React · Node.js · TypeScript · MongoDB · AWS · Stripe**
+
+Built the backend, admin panel, and landing page for an EdTech subscription platform, including **Stripe billing with idempotent webhooks** and **automated AWS S3 report generation**.
 
 ---
 
-### 📬 Connect with Me
+### Logica — Quiz & Scoring Platform
 
-- **Email:** akashnyerunkar580@gmail.com | bitbybitnomad@gmail.com
+**Node.js · Express.js · PostgreSQL**
+
+Built the backend and implemented **PostgreSQL transactions with `SELECT FOR UPDATE` row-level locking** to maintain scoring and leaderboard consistency during concurrent submissions.
+
+---
+
+### Vrittio — Habit Tracking Mobile Application
+
+**React Native · Expo · Node.js · Express.js · MongoDB**
+
+Independently developed and published a mobile application, handling end-to-end application development and the **Google Play release process**.
+
+---
+
+## 🧠 Currently Exploring
+
+- Backend System Design
+- PostgreSQL Performance & Query Optimization
+- Redis & Caching Strategies
+- Asynchronous Job Processing
+- API Scalability & Reliability
+- Practical GenAI / LLM Applications
+
+---
+
+## 📌 What I Enjoy Building
+
+I enjoy working on problems involving:
+
+- Backend API design
+- Database-driven applications
+- Multi-tenant SaaS platforms
+- Authentication & authorization
+- Background processing
+- Third-party API integrations
+- Performance optimization
+- Full-stack product development
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** [akashnyerunkar580@gmail.com](mailto:akashnyerunkar580@gmail.com)
 - **LinkedIn:** [linkedin.com/in/akash-yerunkar03](https://www.linkedin.com/in/akash-yerunkar03)
 - **Portfolio:** [bitbybitnomad.space](https://bitbybitnomad.space/)
+- **GitHub:** [github.com/BitByBitNomad](https://github.com/BitByBitNomad)
